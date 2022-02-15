@@ -91,6 +91,6 @@ puts "1. Contatos\n2. Adicionar\n3. Ver Contato\n4. Editar Contato\n5. Remover C
     when codigo == 5 
       remover_contato
     else 
-      puts "Função não existe, por favor, use uma função válida: "
+      puts "Função não existe, use uma função válida: "
   end
 end 
