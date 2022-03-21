@@ -54,7 +54,7 @@ def editar_contato
       contato[:telefone] = contato[:telefone].empty? ? telefone_salvo : contato[:telefone]
     end
   end
-  puts "-----------------------------------------"
+  puts "--------------------------------------"
 end 
 
 def remover_contato
