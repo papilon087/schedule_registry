@@ -36,7 +36,7 @@ def ver_contato
 end
 
 def editar_contato 
-  print "Qual nome deseja editar: "
+  print "Qual o nome você deseja editar: "
   nome = gets.chomp
 
   @agenda.each do |contato|
