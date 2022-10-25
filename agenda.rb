@@ -1,7 +1,7 @@
 # Adicionar ou remover Contato;
 # Contato terão as seguintes informações: nome e telefone;
 # Poderemos ver todos os contatos registrados ou somente um contato;
-  
+# Teste de chave ssg
 @agenda = [
   {nome: "Diego",   telefone: "999988911"},
   {nome: "Gustavo", telefone: "999988922"},
